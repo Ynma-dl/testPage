@@ -1,0 +1,22 @@
+{
+  "name": "testpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ynma-dl/testPage.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ynma-dl/testPage/issues"
+  },
+  "homepage": "https://github.com/Ynma-dl/testPage#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
